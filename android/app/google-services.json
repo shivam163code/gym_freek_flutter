@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "842545843435",
+    "project_id": "gym-freek",
+    "storage_bucket": "gym-freek.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842545843435:android:c2bc79f0ae00693533c2ae",
+        "android_client_info": {
+          "package_name": "com.example.gym_freek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842545843435-331lsr1dnm6oc7ger0ad9d03rj2hom67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFV7tdCZb8CMEKFu3tMz2ZjdpXZjkfigg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842545843435-331lsr1dnm6oc7ger0ad9d03rj2hom67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842545843435-84kljpiadp7p9c08acr9136fcomli70l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymFreek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
